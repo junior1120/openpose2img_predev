@@ -2,12 +2,12 @@
 
 ### 目的
 * Openposeのフレーム情報を用いてリアルタイム画像生成を行う
-**  リアルタイム性を担保するためにSDXL Turboを使用する
+* →リアルタイム性を担保するためにSDXL Turboを使用する
 
 ### 現状の課題
 * 生成画像の質が低い
 * Openposeの反映度合いが低い
-** →Openposeのパラメータを改善する or Openposeのモデル変更
+* →Openposeのパラメータを改善する or Openposeのモデル変更
 
 ### 内容説明
 * StableDiffusionPy:venvの環境設定ディレクトリ
